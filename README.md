@@ -4,15 +4,15 @@ Welcome to the repository for "The Joy of Computing using Python". This reposito
 
 ## About the Repository
 
-This repository is a comprehensive collection of Python codes that were used and explained during the course. All the codes are kept in the master branch. The aim of this repository is to provide a reference for students who are learning Python and want to delve deeper into the joy of computing using Python.
+This repository is a comprehensive collection of Python codes that were used and explained during the course. All the codes are kept in the `master` branch. The aim of this repository is to provide a reference for students who are learning Python and want to delve deeper into the joy of computing using Python.
 
 ## About the Course
 
-"The Joy of Computing using Python" is a course offered by NPTEL (National Programme on Technology Enhanced Learning), a project funded by the Ministry of Human Resource Development, Government of India. This course provides a comprehensive introduction to Python and its applications in computing.
+"The Joy of Computing using Python" is a course offered by NPTEL (National Programme on Technology Enhanced Learning), a project funded by the Ministry of Human Resource Development, Government of India. This course provides a comprehensive introduction to Python and its applications in computing. I suggest you all to register and take an attempt, as it is very simple yet very informative
 
 ## My Journey
 
-I completed this course in the 2023 batch and was among the top 2% of candidates in the final assessment. The journey of learning and implementing Python was truly joyful and enlightening. 
+I completed this course in the 2023 batch and was among the top 2% of candidates in the final assessment. The journey of learning and implementing Python was honestly very good. 
 
 ## Usage
 
@@ -24,4 +24,4 @@ I would like to express my gratitude to the instructors of the NPTEL course for 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
